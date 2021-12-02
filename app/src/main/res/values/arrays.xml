@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_items">
+
+        <item>Diger</item>
+        <item>Hizmet</item>
+        <item>Insaat</item>
+        <item>Tamir</item>
+        <item>Tarim</item>
+        <item>Teknoloji</item>
+        <item>Yemek</item>
+
+    </string-array>/>
+</resources>
